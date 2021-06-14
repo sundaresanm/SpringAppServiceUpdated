@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'jedd-eddweb-linux-poc-wa'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_983155eee021489d8b6f6a3bc6622b9c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f03c2b9c1c14492f857b8087c0c3baf2 }}
         package: '*.war'
